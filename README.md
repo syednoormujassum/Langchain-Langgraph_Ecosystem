@@ -1,1 +1,1 @@
-## LangChain LangGraph LangServe LanhSmith Ecosystem
+## LangChain LangGraph LangServe LangSmith Ecosystem
